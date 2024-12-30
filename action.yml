@@ -1,4 +1,4 @@
-name: 'NRF Connect SDK CI action'
+name: 'NRF Connect SDK CI action - Fork'
 description: 'Building nrf connect sdk projects'
 branding:
   color: blue
